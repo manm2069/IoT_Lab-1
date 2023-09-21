@@ -2,9 +2,7 @@
 Francis, Miguel, and Aleksy's Lab
 
 Students:
-Francis Andrei Alivio
-Juan Miguel Salvador
-Aleksy Kondracki
+Francis Andrei Alivio, Juan Miguel Salvador, Aleksy Kondracki
 
 Lab Answers:
 1. The LEDs go from 0 to 59 seconds despite us using 6 bits which means we reach up until 64 characters. This is because the code given only allows for the bits to only go to 60 characters as the code is meant to imitate a 60 second interval.
